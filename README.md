@@ -24,7 +24,7 @@ Currently, I am focused on development using Angular on the frontend and NestJS 
 <img src="https://devicons.railway.app/i/postman.svg" alt="Postman" width="50" height="50" />
 
 ## Projetos / Projects
-- [Color Flipper](https://github.com/Maurog-rgba/color-flipper)
+- [Color Flipper - Repo](https://github.com/Maurog-rgba/color-flipper) / [Live Version](https://folor-clipper.netlify.app/)
 
 ## Contato
 - LinkedIn: [Mauro](https://www.linkedin.com/in/mauro-gabriel-b602b5194/)
