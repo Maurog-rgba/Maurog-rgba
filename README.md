@@ -13,10 +13,10 @@ Currently, I am focused on development using Angular on the frontend and NestJS 
 ## Tecnologias e Ferramentas
 
 ### Frontend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"> <img src="https://devicons.railway.app/i/javascript.svg" alt="JavaScript" width="50" height="50"> <img src="https://devicons.railway.app/i/typescript.svg" alt="TypeScript" width="50" height="50"> <img src="https://devicons.railway.app/i/sass.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
 
 ### Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
+<img src="https://devicons.railway.app/i/nestjs.svg" alt="NestJS" width="50" height="50"> <img src="https://devicons.railway.app/i/nodejs.svg" alt="Node.js" width="50" height="50"> <img src="https://devicons.railway.app/i/typescript.svg" alt="TypeScript" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
 <img src="https://devicons.railway.app/i/prisma-light.svg" alt="Prisma" width="50" height="50"/>
 
 ### Outras Ferramentas
