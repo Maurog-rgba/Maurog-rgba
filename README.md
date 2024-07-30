@@ -6,14 +6,14 @@
 </a>
 
 ## Sobre Mim / About Me
-Atualmente, estou focado no desenvolvimento utilizando Angular no frontend e NestJS no backend.
+Atualmente, estou focado no desenvolvimento utilizando Angular e Nextjs no frontend e NestJS no backend.
 <br>
-Currently, I am focused on development using Angular on the frontend and NestJS on the backend.
+Currently, I am focused on development using Angular and Nextjs on the frontend and NestJS on the backend.
 
 ## Tecnologias e Ferramentas
 
 ### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"> <img src="https://devicons.railway.app/i/javascript.svg" alt="JavaScript" width="50" height="50"> <img src="https://devicons.railway.app/i/typescript.svg" alt="TypeScript" width="50" height="50"> <img src="https://devicons.railway.app/i/sass.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" /> <img src="https://devicons.railway.app/i/javascript.svg" alt="JavaScript" width="50" height="50"> <img src="https://devicons.railway.app/i/typescript.svg" alt="TypeScript" width="50" height="50"> <img src="https://devicons.railway.app/i/sass.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
 
 ### Backend
 <img src="https://devicons.railway.app/i/nestjs.svg" alt="NestJS" width="50" height="50"> <img src="https://devicons.railway.app/i/nodejs.svg" alt="Node.js" width="50" height="50"> <img src="https://devicons.railway.app/i/typescript.svg" alt="TypeScript" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
