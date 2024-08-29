@@ -22,14 +22,3 @@ Currently, I am focused on development using Angular and Nextjs on the frontend 
 ### Outras Ferramentas
 <img src="https://devicons.railway.app/i/git.svg" alt="GitHub" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" height="50" /> 
 <img src="https://devicons.railway.app/i/postman.svg" alt="Postman" width="50" height="50" />
-
-## Projetos / Projects
-- [Portfolio](https://github.com/Maurog-rgba/portfolio) / [Live Demo](https://main--mauros-portfolio.netlify.app) -- *In Progress*
-- [Porsche Brazil](https://github.com/Maurog-rgba/porsche-frontend) / [Live Demo](https://porsche-brazil-frontend.netlify.app/) -- *In Progress*
-- [Color Flipper](https://github.com/Maurog-rgba/color-flipper) / [Live Demo](https://folor-clipper.netlify.app/)
-
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/mauro-gabriel-b602b5194/)
-- [Portfolio](https://main--mauros-portfolio.netlify.app)
-- [Email](maurogabr18@gmail.com)
-
